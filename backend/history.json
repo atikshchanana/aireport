@@ -1,0 +1,104 @@
+[
+    {
+        "filename": "Abnormal_Medical_Report_Sample.pdf",
+        "date": "2026-05-23 13:53:41.979607",
+        "parameters": {
+            "Hemoglobin": 8.5,
+            "WBC": 15.0,
+            "Platelets": 95.0,
+            "Cholesterol": 265.0,
+            "Creatinine": 2.1,
+            "Vitamin D": 12.0
+        },
+        "analysis": {
+            "Hemoglobin": "LOW",
+            "WBC": "LOW",
+            "Platelets": "LOW",
+            "Cholesterol": "HIGH",
+            "Creatinine": "HIGH",
+            "Vitamin D": "LOW"
+        },
+        "summary": [
+            "Low hemoglobin may indicate anemia.",
+            "Low WBC may indicate immune suppression.",
+            "Low platelet count may increase bleeding risk.",
+            "High cholesterol may increase heart disease risk.",
+            "High creatinine may indicate kidney dysfunction."
+        ]
+    },
+    {
+        "filename": "fake_medical_report.pdf",
+        "date": "2026-05-23 13:54:41.809644",
+        "parameters": {
+            "Hemoglobin": 10.5,
+            "Glucose": 145.0,
+            "WBC": 12500.0,
+            "Platelets": 210000.0,
+            "RBC": 4.2
+        },
+        "analysis": {
+            "Hemoglobin": "LOW",
+            "Glucose": "HIGH",
+            "WBC": "HIGH",
+            "Platelets": "NORMAL",
+            "RBC": "NORMAL"
+        },
+        "summary": [
+            "Low hemoglobin may indicate anemia.",
+            "High glucose may indicate diabetes risk.",
+            "High WBC may indicate infection."
+        ]
+    },
+    {
+        "filename": "Selective_Abnormal_Medical_Report.pdf",
+        "date": "2026-05-23 13:54:52.784376",
+        "parameters": {
+            "Hemoglobin": 9.2,
+            "WBC": 14.0
+        },
+        "analysis": {
+            "Hemoglobin": "LOW",
+            "WBC": "LOW"
+        },
+        "summary": [
+            "Low hemoglobin may indicate anemia.",
+            "Low WBC may indicate immune suppression."
+        ]
+    },
+    {
+        "filename": "Abnormal_Medical_Report_Sample.pdf",
+        "date": "2026-05-23 13:58:29.184447",
+        "parameters": {
+            "Hemoglobin": 8.5,
+            "WBC": 15.0,
+            "Platelets": 95.0,
+            "Cholesterol": 265.0,
+            "Creatinine": 2.1,
+            "Vitamin D": 12.0
+        },
+        "analysis": {
+            "Hemoglobin": "LOW",
+            "WBC": "LOW",
+            "Platelets": "LOW",
+            "Cholesterol": "HIGH",
+            "Creatinine": "HIGH",
+            "Vitamin D": "LOW"
+        },
+        "summary": [
+            "Low hemoglobin may indicate anemia.",
+            "Low WBC may indicate immune suppression.",
+            "Low platelet count may increase bleeding risk.",
+            "High cholesterol may increase heart disease risk.",
+            "High creatinine may indicate kidney dysfunction."
+        ]
+    },
+    {
+        "filename": "AI_Medical_Report_Analyzer_4_Week_Roadmap.pdf",
+        "date": "2026-05-23 14:04:53.315970",
+        "parameters": {},
+        "analysis": {},
+        "summary": [
+            "All parameters appear normal."
+        ]
+    }
+]
